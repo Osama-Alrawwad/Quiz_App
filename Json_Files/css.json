@@ -1,0 +1,82 @@
+[
+  {
+    "title": "What does CSS stand for?",
+    "answer_1": "Creative Style Sheets",
+    "answer_2": "Cascading Style Sheets",
+    "answer_3": "Computer Style Sheets",
+    "answer_4": "Colorful Style Syntax",
+    "correct_answer": "Cascading Style Sheets"
+  },
+  {
+    "title": "Which HTML tag is used to include an external CSS file?",
+    "answer_1": "<style>",
+    "answer_2": "<css>",
+    "answer_3": "<link>",
+    "answer_4": "<script>",
+    "correct_answer": "<link>"
+  },
+  {
+    "title": "Which property is used to change the text color in CSS?",
+    "answer_1": "font-color",
+    "answer_2": "color",
+    "answer_3": "text-color",
+    "answer_4": "foreground",
+    "correct_answer": "color"
+  },
+  {
+    "title": "How do you select an element with the class name 'main'?",
+    "answer_1": ".main",
+    "answer_2": "#main",
+    "answer_3": "main",
+    "answer_4": "*main",
+    "correct_answer": ".main"
+  },
+  {
+    "title": "Which CSS property controls the text size?",
+    "answer_1": "font-size",
+    "answer_2": "text-style",
+    "answer_3": "text-size",
+    "answer_4": "font-style",
+    "correct_answer": "font-size"
+  },
+  {
+    "title": "How do you make the text bold in CSS?",
+    "answer_1": "text-weight: bold;",
+    "answer_2": "font-weight: bold;",
+    "answer_3": "font-bold: yes;",
+    "answer_4": "weight: bold;",
+    "correct_answer": "font-weight: bold;"
+  },
+  {
+    "title": "Which property is used to change the background color?",
+    "answer_1": "bgcolor",
+    "answer_2": "background",
+    "answer_3": "background-color",
+    "answer_4": "color-background",
+    "correct_answer": "background-color"
+  },
+  {
+    "title": "How can you center text horizontally inside an element?",
+    "answer_1": "align: center;",
+    "answer_2": "text-align: center;",
+    "answer_3": "font-align: center;",
+    "answer_4": "horizontal-align: center;",
+    "correct_answer": "text-align: center;"
+  },
+  {
+    "title": "Which value of position property makes the element fixed in place?",
+    "answer_1": "absolute",
+    "answer_2": "fixed",
+    "answer_3": "relative",
+    "answer_4": "static",
+    "correct_answer": "fixed"
+  },
+  {
+    "title": "Which property is used to add space inside an element?",
+    "answer_1": "margin",
+    "answer_2": "padding",
+    "answer_3": "border",
+    "answer_4": "spacing",
+    "correct_answer": "padding"
+  }
+]

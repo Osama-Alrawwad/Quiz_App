@@ -1,0 +1,82 @@
+[
+  {
+    "title": "What does JS stand for?",
+    "answer_1": "JavaSyntax",
+    "answer_2": "JavaSource",
+    "answer_3": "JavaScript",
+    "answer_4": "JustScript",
+    "correct_answer": "JavaScript"
+  },
+  {
+    "title": "Which HTML element do we put JavaScript inside?",
+    "answer_1": "<javascript>",
+    "answer_2": "<js>",
+    "answer_3": "<script>",
+    "answer_4": "<code>",
+    "correct_answer": "<script>"
+  },
+  {
+    "title": "How do you write 'Hello World' in an alert box?",
+    "answer_1": "alertBox('Hello World');",
+    "answer_2": "msg('Hello World');",
+    "answer_3": "alert('Hello World');",
+    "answer_4": "msgBox('Hello World');",
+    "correct_answer": "alert('Hello World');"
+  },
+  {
+    "title": "How do you create a function in JavaScript?",
+    "answer_1": "function = myFunction()",
+    "answer_2": "function myFunction()",
+    "answer_3": "create.myFunction()",
+    "answer_4": "def myFunction()",
+    "correct_answer": "function myFunction()"
+  },
+  {
+    "title": "How do you call a function named 'myFunction'?",
+    "answer_1": "call myFunction()",
+    "answer_2": "run myFunction",
+    "answer_3": "myFunction()",
+    "answer_4": "execute.myFunction",
+    "correct_answer": "myFunction()"
+  },
+  {
+    "title": "Which operator is used to assign a value to a variable?",
+    "answer_1": "-",
+    "answer_2": "x",
+    "answer_3": "=",
+    "answer_4": "*",
+    "correct_answer": "="
+  },
+  {
+    "title": "What is the correct way to write a comment in JavaScript?",
+    "answer_1": "# This is a comment",
+    "answer_2": "// This is a comment",
+    "answer_3": "<!-- This is a comment -->",
+    "answer_4": "** This is a comment **",
+    "correct_answer": "// This is a comment"
+  },
+  {
+    "title": "How do you declare a variable in JavaScript?",
+    "answer_1": "v myVar;",
+    "answer_2": "variable myVar;",
+    "answer_3": "let myVar;",
+    "answer_4": "dim myVar;",
+    "correct_answer": "let myVar;"
+  },
+  {
+    "title": "Which method is used to print something to the console?",
+    "answer_1": "print()",
+    "answer_2": "log.console()",
+    "answer_3": "console.log()",
+    "answer_4": "display()",
+    "correct_answer": "console.log()"
+  },
+  {
+    "title": "Which symbol is used for single-line comments?",
+    "answer_1": "//",
+    "answer_2": "/* */",
+    "answer_3": "<!-- -->",
+    "answer_4": "#",
+    "correct_answer": "//"
+  }
+]

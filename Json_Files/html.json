@@ -1,0 +1,82 @@
+[
+  {
+    "title": "What does HTML stand for?",
+    "answer_1": "Hyperlinks and Text Markup Language",
+    "answer_2": "Home Tool Markup Language",
+    "answer_3": "Hyper Text Markup Language",
+    "answer_4": "Hyper Text Managing Language",
+    "correct_answer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "Which HTML tag is used to define the largest heading?",
+    "answer_1": "<h6>",
+    "answer_2": "<heading>",
+    "answer_3": "<head>",
+    "answer_4": "<h1>",
+    "correct_answer": "<h1>"
+  },
+  {
+    "title": "What is the correct HTML element for inserting a line break?",
+    "answer_1": "<break>",
+    "answer_2": "<br>",
+    "answer_3": "<lb>",
+    "answer_4": "<hr>",
+    "correct_answer": "<br>"
+  },
+  {
+    "title": "Which HTML tag is used to define an unordered list?",
+    "answer_1": "<ol>",
+    "answer_2": "<ul>",
+    "answer_3": "<li>",
+    "answer_4": "<list>",
+    "correct_answer": "<ul>"
+  },
+  {
+    "title": "Which HTML attribute is used to define inline styles?",
+    "answer_1": "font",
+    "answer_2": "style",
+    "answer_3": "class",
+    "answer_4": "styles",
+    "correct_answer": "style"
+  },
+  {
+    "title": "Which tag is used to create a hyperlink in HTML?",
+    "answer_1": "<a>",
+    "answer_2": "<link>",
+    "answer_3": "<href>",
+    "answer_4": "<url>",
+    "correct_answer": "<a>"
+  },
+  {
+    "title": "How can you make a numbered list in HTML?",
+    "answer_1": "<ol>",
+    "answer_2": "<ul>",
+    "answer_3": "<list>",
+    "answer_4": "<dl>",
+    "correct_answer": "<ol>"
+  },
+  {
+    "title": "Which HTML element is used to specify a footer for a document or section?",
+    "answer_1": "<bottom>",
+    "answer_2": "<footer>",
+    "answer_3": "<section>",
+    "answer_4": "<end>",
+    "correct_answer": "<footer>"
+  },
+  {
+    "title": "Which HTML attribute specifies alternate text for an image if the image cannot be displayed?",
+    "answer_1": "alt",
+    "answer_2": "title",
+    "answer_3": "src",
+    "answer_4": "longdesc",
+    "correct_answer": "alt"
+  },
+  {
+    "title": "What is the correct HTML element for playing video files?",
+    "answer_1": "<media>",
+    "answer_2": "<movie>",
+    "answer_3": "<video>",
+    "answer_4": "<play>",
+    "correct_answer": "<video>"
+  }
+]
