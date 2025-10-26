@@ -42,7 +42,7 @@ function main() {
 main();
 /* fetch  */
 function getRequest() {
-  fetch(`/Json_Files/${choosenLanguage.value}.json`)
+  fetch(`Json_Files/${choosenLanguage.value}.json`)
     .then((respons) => respons.json())
     .then((data) => {
       let qcount = data.length;
